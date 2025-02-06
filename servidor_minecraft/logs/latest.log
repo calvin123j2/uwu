@@ -10489,3 +10489,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Feb2025 23:30:56.351] [Server thread/INFO] [Jade/]: Syncing config to davisdrt (74cb11a5-0b51-3278-a2bf-301ecf3b38d0)
 [06Feb2025 23:31:13.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [06Feb2025 23:40:57.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [What a Deal!]
+[06Feb2025 23:54:12.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.117.137.247:34405] logged in with entity id 4582 at (-2.700363244606404, 77.32271870201097, -2055.1424819618383)
+[06Feb2025 23:54:12.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[06Feb2025 23:54:13.985] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[06Feb2025 23:54:14.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! 5.4953326457088565,1.1661092609382138,-8.30594280305598
+[06Feb2025 23:54:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 went up in flames
+[06Feb2025 23:54:50.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was turned into KFC by Fire Dragon
+[06Feb2025 23:55:49.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Feb2025 23:56:00.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was incinerated by Fire Dragon
+[06Feb2025 23:57:08.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
