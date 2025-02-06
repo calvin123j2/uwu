@@ -10778,3 +10778,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Feb2025 20:41:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [06Feb2025 20:41:11.861] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
 [06Feb2025 20:44:43.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-321, y=51, z=-202} BlockPos{x=-320, y=49, z=-202}
+[06Feb2025 20:52:40.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:47697] logged in with entity id 54220 at (-301.49060128170066, 62.9375, -49.41002020063933)
+[06Feb2025 20:52:40.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[06Feb2025 20:52:40.456] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[06Feb2025 20:53:23.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> jose unete
+[06Feb2025 20:53:32.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Feb2025 20:53:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[06Feb2025 20:55:53.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Waste Recycler]
+[06Feb2025 20:55:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Waste Recycler]
