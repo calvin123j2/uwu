@@ -10738,3 +10738,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Feb2025 19:37:27.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.197.221.252:57471] logged in with entity id 38874 at (-244.1722366637623, 74.0, 0.14424167651304617)
 [06Feb2025 19:37:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [06Feb2025 19:37:27.572] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[06Feb2025 19:45:39.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=70, z=-20} BlockPos{x=-247, y=70, z=-19}
+[06Feb2025 19:47:07.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-248, y=68, z=-25} BlockPos{x=-247, y=68, z=-26}
+[06Feb2025 19:57:00.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Feb2025 19:57:00.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
