@@ -10687,3 +10687,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Feb2025 17:50:08.936] [Server thread/INFO] [Jade/]: Syncing config to davisdrt (74cb11a5-0b51-3278-a2bf-301ecf3b38d0)
 [06Feb2025 17:55:25.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of davisdrt) moved wrongly! 0.260034948049352
 [06Feb2025 17:55:57.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has reached the goal [Horror of the Depths]
+[06Feb2025 17:59:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Feb2025 17:59:34.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[06Feb2025 18:02:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> las reformas son canon
+[06Feb2025 18:02:41.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> si quieres escaleras te puedo dar, tengo unas de sobra
+[06Feb2025 18:04:42.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt lost connection: Disconnected
+[06Feb2025 18:04:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt left the game
+[06Feb2025 18:04:54.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> duerm
+[06Feb2025 18:06:45.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davisdrt[/127.215.198.66:57907] logged in with entity id 24527 at (-275.40071338390055, 63.0, -81.88069697169149)
+[06Feb2025 18:06:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt joined the game
+[06Feb2025 18:06:45.192] [Server thread/INFO] [Jade/]: Syncing config to davisdrt (74cb11a5-0b51-3278-a2bf-301ecf3b38d0)
