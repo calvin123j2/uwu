@@ -10976,3 +10976,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Feb2025 16:39:08.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
 [07Feb2025 16:40:35.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
 [07Feb2025 16:42:49.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:44:26.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:45:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:45:50.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:45:50.692] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 16:45:50.692] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[07Feb2025 16:45:50.693] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 16:45:50.693] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 16:45:50.693] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[07Feb2025 16:47:34.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:49:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:51:31.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
+[07Feb2025 16:51:31.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
