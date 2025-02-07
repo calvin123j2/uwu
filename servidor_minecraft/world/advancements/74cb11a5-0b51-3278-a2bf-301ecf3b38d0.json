@@ -413,7 +413,8 @@
     "criteria": {
       "sandy_dirt": "2025-01-09 20:45:14 +0000",
       "grass": "2025-01-09 19:50:11 +0000",
-      "dirt": "2025-01-08 15:58:40 +0000"
+      "dirt": "2025-01-08 15:58:40 +0000",
+      "earthen_clay": "2025-02-07 16:04:14 +0000"
     },
     "done": false
   },
@@ -1048,6 +1049,12 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-02-07 15:53:43 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-02-07 16:07:38 +0000"
     },
     "done": true
   },
