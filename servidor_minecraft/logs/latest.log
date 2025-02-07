@@ -10867,3 +10867,27 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [07Feb2025 20:19:19.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.197.221.252:34617] logged in with entity id 33732 at (-97.88890209793084, 50.024424088213685, -2260.351724639966)
 [07Feb2025 20:19:19.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [07Feb2025 20:19:20.005] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[07Feb2025 20:20:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq hit the ground too hard
+[07Feb2025 20:21:41.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! -1.1637782494216147,-0.3693736602695026,-10.031787448535397
+[07Feb2025 20:23:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Komodo Dragon
+[07Feb2025 20:23:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> gustavo
+[07Feb2025 20:25:01.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Komodo Dragon
+[07Feb2025 20:27:25.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Komodo Dragon
+[07Feb2025 20:27:37.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Feb2025 20:27:56.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
+[07Feb2025 20:28:15.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[07Feb2025 20:28:25.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! -2.241993597795057,0.49520087700592796,-9.786142958017763
+[07Feb2025 20:28:33.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3697ms or 73 ticks behind
+[07Feb2025 20:28:52.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[07Feb2025 20:29:09.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[07Feb2025 20:29:28.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[07Feb2025 20:29:33.270] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[07Feb2025 20:29:33.271] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[07Feb2025 20:29:48.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
+[07Feb2025 20:30:06.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[07Feb2025 20:30:24.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
+[07Feb2025 20:30:25.437] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=-11, z=-5}
+[07Feb2025 20:30:32.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Timed out
+[07Feb2025 20:30:32.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[07Feb2025 20:30:42.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[07Feb2025 20:30:45.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=-52, z=1771}
