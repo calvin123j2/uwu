@@ -10593,3 +10593,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Feb2025 19:09:04.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by 789123
 [07Feb2025 19:09:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> atras
 [07Feb2025 19:09:07.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Skeleton
+[07Feb2025 19:09:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
+[07Feb2025 19:09:53.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Skeleton
+[07Feb2025 19:10:03.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Skeleton
+[07Feb2025 19:10:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [A Flaming Sword]
+[07Feb2025 19:11:41.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Skeleton
+[07Feb2025 19:13:12.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> dame eso
+[07Feb2025 19:13:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mi varita
+[07Feb2025 19:13:23.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> de esqueleto
+[07Feb2025 19:14:16.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 19:14:24.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Skeleton
+[07Feb2025 19:14:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Skeleton
+[07Feb2025 19:14:40.151] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 19:14:40.152] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[07Feb2025 19:14:40.152] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 19:14:40.152] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 19:14:40.152] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 7
+[07Feb2025 19:14:50.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
+[07Feb2025 19:15:11.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 19:15:19.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Skeleton
+[07Feb2025 19:15:32.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> malditos sean los mobs con poderes
+[07Feb2025 19:16:41.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
+[07Feb2025 19:17:20.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> vamos
+[07Feb2025 19:18:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> jos donde estsa
