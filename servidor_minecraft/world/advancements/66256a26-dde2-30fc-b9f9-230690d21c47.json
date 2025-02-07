@@ -353,6 +353,7 @@
       "sandy_dirt": "2025-01-08 22:20:27 +0000",
       "dirt": "2025-01-08 14:53:57 +0000",
       "silt": "2025-01-12 15:45:00 +0000",
+      "loam": "2025-02-07 20:50:24 +0000",
       "earthen_clay": "2025-02-07 00:21:13 +0000"
     },
     "done": false
@@ -1467,6 +1468,12 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-02-07 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-07 20:49:58 +0000"
     },
     "done": true
   },
