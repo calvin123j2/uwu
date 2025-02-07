@@ -1300,5 +1300,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-02-07 19:50:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
