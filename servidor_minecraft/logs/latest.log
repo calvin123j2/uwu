@@ -10970,3 +10970,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Feb2025 16:31:46.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
 [07Feb2025 16:31:50.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
 [07Feb2025 16:31:50.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[07Feb2025 16:36:43.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.117.137.247:44195] logged in with entity id 26189 at (38.51009857563993, 35.0, -2039.3739314769252)
+[07Feb2025 16:36:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[07Feb2025 16:36:43.753] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[07Feb2025 16:39:08.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:40:35.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:42:49.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
