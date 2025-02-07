@@ -624,7 +624,8 @@
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_underwater_small_ruins": "2025-01-08 23:00:41 +0000",
-      "locate_ruin_cold": "2025-01-08 20:03:21 +0000"
+      "locate_ruin_cold": "2025-01-08 20:03:21 +0000",
+      "locate_underwater_warm_small_ruins": "2025-02-07 01:59:45 +0000"
     },
     "done": false
   },
@@ -1034,6 +1035,12 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-02-07 01:01:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-02-07 01:48:39 +0000"
     },
     "done": true
   },
