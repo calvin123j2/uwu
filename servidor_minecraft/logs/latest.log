@@ -10511,3 +10511,426 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Feb2025 15:41:34.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt lost connection: Disconnected
 [07Feb2025 15:41:34.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt left the game
 [07Feb2025 15:41:46.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Feb2025 15:43:04.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Feb2025 15:43:33.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davisdrt[/127.215.198.66:41471] logged in with entity id 5454 at (93.92965924796718, 64.0, -2001.1760685511879)
+[07Feb2025 15:43:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt joined the game
+[07Feb2025 15:43:34.004] [Server thread/INFO] [Jade/]: Syncing config to davisdrt (74cb11a5-0b51-3278-a2bf-301ecf3b38d0)
+[07Feb2025 15:43:40.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:44:22.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:44:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:44:43.338] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 15:44:43.338] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[07Feb2025 15:44:43.339] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 15:44:43.339] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 15:44:43.339] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[07Feb2025 15:44:56.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:45:57.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Corpse Maggot
+[07Feb2025 15:45:57.889] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 15:45:57.890] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[07Feb2025 15:45:57.890] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 15:45:57.890] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 15:45:57.890] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[07Feb2025 15:46:48.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:33233] logged in with entity id 7307 at (35.33716748363882, 72.0, -2024.9222114047232)
+[07Feb2025 15:46:48.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[07Feb2025 15:46:48.634] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[07Feb2025 15:46:55.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> riley
+[07Feb2025 15:46:56.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:46:58.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> o jose
+[07Feb2025 15:47:12.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> xddd
+[07Feb2025 15:47:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> oe que
+[07Feb2025 15:47:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:47:43.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[07Feb2025 15:47:43.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[07Feb2025 15:48:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:48:06.985] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 15:48:06.985] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[07Feb2025 15:48:06.985] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 15:48:06.985] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 15:48:06.985] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[07Feb2025 15:48:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:49:41.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> zz
+[07Feb2025 15:50:21.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[07Feb2025 15:50:21.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[07Feb2025 15:51:19.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was caught by Necromancer's fangs
+[07Feb2025 15:51:19.209] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 15:51:19.209] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[07Feb2025 15:51:19.209] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 15:51:19.210] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 15:51:19.210] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 7
+[07Feb2025 15:51:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was mauled by Necromancer's undead
+[07Feb2025 15:52:14.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was mauled by Necromancer's undead
+[07Feb2025 15:52:42.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.197.221.252:52867] logged in with entity id 9857 at (-438.6529453955057, 67.0, -2373.714299112141)
+[07Feb2025 15:52:42.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[07Feb2025 15:52:42.528] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[07Feb2025 15:53:43.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has reached the goal [Flowers of the Savanna]
+[07Feb2025 15:55:02.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=73, z=-1974} BlockPos{x=-26, y=71, z=-1974}
+[07Feb2025 15:55:14.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:55:28.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.041] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:29.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.349] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:30.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:31.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.226] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:32.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.333] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.731] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:33.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:34.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.440] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:35.940] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.247] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.467] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.570] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.670] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:55:36.773] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.866] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:36.971] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.067] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.167] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.470] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:37.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.467] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:38.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.282] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:39.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.328] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:40.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.571] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.828] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:41.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.593] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:42.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:43.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:44.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.131] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:45.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:46.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:47.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:48.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:49.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:50.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:51.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:52.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.330] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.428] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:53.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:54.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:55.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:55:56.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 15:56:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:56:02.982] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 15:56:02.983] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[07Feb2025 15:56:02.983] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 15:56:02.983] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 15:56:02.983] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[07Feb2025 15:56:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:58:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:58:23.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[07Feb2025 15:58:29.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:58:29.236] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 15:58:29.236] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[07Feb2025 15:58:29.237] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 15:58:29.237] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 15:58:29.237] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[07Feb2025 15:58:41.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=81, z=-1941} BlockPos{x=10, y=81, z=-1941}
+[07Feb2025 15:59:05.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:59:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Jungle Fliers]
+[07Feb2025 15:59:14.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7190985537785175
+[07Feb2025 15:59:15.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6591791717738797
+[07Feb2025 15:59:15.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.800950879344496
+[07Feb2025 15:59:16.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8269907478510875
+[07Feb2025 15:59:17.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8302642950477258
+[07Feb2025 15:59:18.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.830382856006926
+[07Feb2025 15:59:18.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.4272484796957533
+[07Feb2025 15:59:22.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6626795718264357
+[07Feb2025 15:59:23.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8278146722445726
+[07Feb2025 15:59:24.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8300832481912045
+[07Feb2025 15:59:25.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8297232365631002
+[07Feb2025 15:59:26.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5938718051281384
+[07Feb2025 15:59:28.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 15:59:31.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7780373307354248
+[07Feb2025 15:59:32.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8274995594584833
+[07Feb2025 15:59:33.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8300135223274174
+[07Feb2025 15:59:33.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8287660703195254
+[07Feb2025 15:59:34.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8229427798413913
+[07Feb2025 15:59:35.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8293911350518425
+[07Feb2025 15:59:37.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.710027030291108
+[07Feb2025 15:59:38.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6681646976751702
+[07Feb2025 15:59:41.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5939002340361161
+[07Feb2025 15:59:43.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8116407065376582
+[07Feb2025 15:59:43.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8167488076108571
+[07Feb2025 16:00:16.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.439442245803724
+[07Feb2025 16:00:17.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6681615169648527
+[07Feb2025 16:00:18.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.2985914926557546
+[07Feb2025 16:00:19.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.43869265040098326
+[07Feb2025 16:00:20.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5263550482809801
+[07Feb2025 16:00:21.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.4708611263643571
+[07Feb2025 16:00:22.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6982251910722564
+[07Feb2025 16:00:23.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8046457446080948
+[07Feb2025 16:00:23.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.38721831001885787
+[07Feb2025 16:00:24.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7187686569097951
+[07Feb2025 16:00:25.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8119167825760428
+[07Feb2025 16:00:26.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.553034762197876
+[07Feb2025 16:00:28.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.36031565529645343
+[07Feb2025 16:00:28.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.382004273037173
+[07Feb2025 16:00:28.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3859273201020449
+[07Feb2025 16:00:28.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.40451323825211205
+[07Feb2025 16:00:30.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.4395275620484201
+[07Feb2025 16:00:31.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6878477425093398
+[07Feb2025 16:00:32.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7573066951495285
+[07Feb2025 16:00:39.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:01:00.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8081862889595239
+[07Feb2025 16:01:02.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8293835360058944
+[07Feb2025 16:01:04.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305040053544149
+[07Feb2025 16:01:04.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305034103182822
+[07Feb2025 16:01:04.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305033247312817
+[07Feb2025 16:01:05.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305071443773894
+[07Feb2025 16:01:05.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305074149608922
+[07Feb2025 16:01:06.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8301916499145795
+[07Feb2025 16:01:06.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8279132104450764
+[07Feb2025 16:01:06.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8279132104450764
+[07Feb2025 16:01:06.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 2.489113121915181
+[07Feb2025 16:01:07.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8283179212840974
+[07Feb2025 16:01:08.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8302362534724839
+[07Feb2025 16:01:08.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8302598697122324
+[07Feb2025 16:01:09.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8304734947737522
+[07Feb2025 16:01:10.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305016662557445
+[07Feb2025 16:01:11.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305074267099896
+[07Feb2025 16:01:12.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305083232923298
+[07Feb2025 16:01:12.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8049179725635514
+[07Feb2025 16:01:13.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8029483275983269
+[07Feb2025 16:01:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:02:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[07Feb2025 16:02:29.899] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Feb2025 16:02:29.900] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[07Feb2025 16:02:29.900] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Feb2025 16:02:29.900] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Feb2025 16:02:29.900] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[07Feb2025 16:03:10.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
