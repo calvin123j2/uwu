@@ -292,6 +292,7 @@
       "environmental:environmental:blossom_woods": "2025-01-09 18:54:10 +0000",
       "minecraft:dark_forest": "2025-01-18 01:22:39 +0000",
       "environmental:environmental:old_growth_pine_barrens": "2025-01-21 21:39:24 +0000",
+      "minecraft:sparse_jungle": "2025-02-07 00:48:06 +0000",
       "minecraft:river": "2025-01-08 14:45:20 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-01-08 20:39:07 +0000",
       "minecraft:lukewarm_ocean": "2025-01-12 18:14:30 +0000",
@@ -326,6 +327,7 @@
       "minecraft:old_growth_birch_forest": "2025-01-09 18:55:36 +0000",
       "minecraft:deep_dark": "2025-01-18 21:32:21 +0000",
       "minecraft:meadow": "2025-01-16 23:39:42 +0000",
+      "minecraft:savanna": "2025-02-07 00:20:19 +0000",
       "minecraft:plains": "2025-01-08 14:22:19 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-01-08 15:11:04 +0000"
     },
@@ -347,7 +349,8 @@
     "criteria": {
       "sandy_dirt": "2025-01-08 22:20:27 +0000",
       "dirt": "2025-01-08 14:53:57 +0000",
-      "silt": "2025-01-12 15:45:00 +0000"
+      "silt": "2025-01-12 15:45:00 +0000",
+      "earthen_clay": "2025-02-07 00:21:13 +0000"
     },
     "done": false
   },
@@ -1428,6 +1431,18 @@
   "born_in_chaos_v1:waste_recycler": {
     "criteria": {
       "waste_recycler_0": "2025-02-06 20:55:53 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:35:49 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:35:49 +0000"
     },
     "done": true
   },

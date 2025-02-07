@@ -291,6 +291,7 @@
       "environmental:environmental:blossom_woods": "2025-01-18 18:59:09 +0000",
       "minecraft:dark_forest": "2025-01-12 18:54:44 +0000",
       "environmental:environmental:old_growth_pine_barrens": "2025-01-21 21:39:22 +0000",
+      "minecraft:sparse_jungle": "2025-02-07 00:48:23 +0000",
       "minecraft:river": "2025-01-08 15:20:35 +0000",
       "minecraft:lukewarm_ocean": "2025-01-12 17:37:45 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-01-20 21:43:54 +0000",
@@ -505,6 +506,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-08 15:50:32 +0000",
       "minecraft:skeleton": "2025-01-08 22:12:08 +0000",
+      "minecraft:vindicator": "2025-02-07 00:56:42 +0000",
       "minecraft:spider": "2025-01-08 19:27:18 +0000",
       "minecraft:creeper": "2025-01-09 21:24:06 +0000",
       "minecraft:phantom": "2025-02-06 21:53:43 +0000",
@@ -1274,6 +1276,24 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-07 00:04:46 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:35:51 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:35:51 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:tactically_nuked": {
+    "criteria": {
+      "tactically_nuked_0": "2025-02-07 00:58:21 +0000"
     },
     "done": true
   },

@@ -190,8 +190,10 @@
       "minecraft:beach": "2025-01-08 15:46:33 +0000",
       "environmental:environmental:blossom_woods": "2025-01-18 20:02:16 +0000",
       "minecraft:dark_forest": "2025-02-04 18:53:32 +0000",
+      "minecraft:sparse_jungle": "2025-02-07 00:48:25 +0000",
       "minecraft:river": "2025-01-08 17:08:02 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-02-04 18:49:07 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-07 00:17:46 +0000",
       "minecraft:dripstone_caves": "2025-01-18 21:40:24 +0000",
       "minecraft:grove": "2025-01-18 20:00:47 +0000",
       "minecraft:cold_ocean": "2025-01-18 19:47:27 +0000",
@@ -201,10 +203,12 @@
       "environmental:environmental:pine_slopes": "2025-01-18 21:52:34 +0000",
       "minecraft:ocean": "2025-01-08 16:30:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-04 18:57:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-07 00:18:12 +0000",
       "minecraft:flower_forest": "2025-01-08 17:51:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-04 18:50:25 +0000",
       "minecraft:deep_dark": "2025-02-03 20:42:05 +0000",
       "minecraft:meadow": "2025-01-18 19:59:21 +0000",
+      "minecraft:savanna": "2025-02-07 00:20:19 +0000",
       "minecraft:plains": "2025-01-08 14:58:02 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-01-08 15:41:14 +0000"
     },
@@ -417,9 +421,12 @@
       "minecraft:pillager": "2025-01-08 16:49:50 +0000",
       "minecraft:blaze": "2025-02-03 18:45:43 +0000",
       "minecraft:skeleton": "2025-01-08 22:24:54 +0000",
+      "minecraft:vindicator": "2025-02-07 00:37:58 +0000",
       "minecraft:spider": "2025-01-08 16:01:34 +0000",
       "minecraft:phantom": "2025-01-12 00:32:57 +0000",
+      "minecraft:cave_spider": "2025-02-07 01:02:05 +0000",
       "minecraft:enderman": "2025-01-09 18:27:42 +0000",
+      "minecraft:silverfish": "2025-02-07 01:04:09 +0000",
       "minecraft:zombie": "2025-01-08 16:21:59 +0000",
       "minecraft:drowned": "2025-02-06 18:20:25 +0000",
       "minecraft:zombie_villager": "2025-01-09 20:11:53 +0000"
@@ -941,7 +948,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-02-03 20:38:46 +0000"
+      "in_better_zombie_dungeon": "2025-02-03 20:38:46 +0000",
+      "in_better_monster_room": "2025-02-07 00:23:08 +0000"
     },
     "done": false
   },
@@ -1002,6 +1010,30 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-06 23:40:57 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-07 00:23:08 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:35:45 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:35:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-02-07 01:01:02 +0000"
     },
     "done": true
   },
